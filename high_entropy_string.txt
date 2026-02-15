@@ -1,0 +1,4 @@
+Random generated value:
+9xK4LmPqR8tWzY2vB6nD3sF1hJ7uC5eX
+
+This file is for entropy-based detection testing.
